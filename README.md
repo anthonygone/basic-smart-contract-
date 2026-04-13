@@ -1,4 +1,4 @@
-<img width="1185" height="1505" alt="image" src="https://github.com/user-attachments/assets/be88f08c-93a8-401e-bd18-420f05c71acb" /># basic-smart-contract-
+
 smart contract
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
